@@ -1,6 +1,8 @@
+### PowerShards Free Use License (PSFUL)
+
 **Copyright (c) 2025 DeltaSoftwares by Elias**
 
-This software is licensed under the following terms and conditions:
+This software is licensed under the **PowerShards Free Use License (PSFUL)**, which allows you to use the PowerShards (PWS) plugin under the following terms:
 
 1. **Grant of License**
    DeltaSoftwares by Elias grants you a **non-exclusive, non-transferable, and free** license to **use** the PowerShards (PWS) plugin on your own Minecraft servers. You may use it for personal, non-commercial, or commercial purposes, provided that the following terms are adhered to.
@@ -9,7 +11,7 @@ This software is licensed under the following terms and conditions:
 
    * You may use PowerShards (PWS) on **unlimited Minecraft servers**, whether for personal, non-commercial, or commercial use.
    * You must **not remove or alter the credits** in the plugin or its associated files.
-   * **You are not allowed to redistribute, share, or make the plugin available for download** outside of the official download locations.
+   * **Redistribution** of the plugin is **strictly prohibited**. You may not share, distribute, or make the plugin available for download outside the official download locations.
 
 3. **Commercial Use**
 
