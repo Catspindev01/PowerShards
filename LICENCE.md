@@ -79,4 +79,3 @@ This data is used solely for debugging, performance optimization, and future dev
 
 ---
 
-Let me know if you want this section to mention opt-out possibilities or elaborate on data retention policies.
