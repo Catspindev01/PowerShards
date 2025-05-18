@@ -1,3 +1,5 @@
+---
+
 ### PowerShards Free Use License (PSFUL)
 
 **Copyright (c) 2025 DeltaSoftwares by Elias**
@@ -78,4 +80,7 @@ This software is licensed under the **PowerShards Free Use License (PSFUL)**, wh
 This data is used solely for debugging, performance optimization, and future development purposes. Personal or sensitive information is not collected or stored. Use of this plugin constitutes acceptance of this data collection.
 
 ---
+
+11. **Test Versions**
+    Test versions of PowerShards (PWS) may be distributed to select partners for evaluation and feedback purposes. These builds are **unstable** and **not intended for production use**. Using test versions in a live or public environment is strictly discouraged and **may result in DMCA takedowns** being issued against you, your website, or any associated services or platforms.
 
